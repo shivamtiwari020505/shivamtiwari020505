@@ -10,6 +10,7 @@ I build and verify synthesizable digital hardware using Verilog, SystemVerilog, 
 
 ## Open-source contributions
 
+- **[OpenHW Group / CORE-V MCU](https://github.com/openhwgroup/core-v-mcu/pull/375)** - Added a self-checking regression for events 7 and 8 through the FC FIFO and IRQ 11 path, a reusable FuseSoC test target for Verilator and Icarus, and supporting documentation. **Merged.**
 - **[OpenHW Group / CORE-V MCU](https://github.com/openhwgroup/core-v-mcu/pull/372)** - Connected the uDMA I2C status-event path through clock-domain crossing, sticky status registers, and SoC event routing; added focused RTL tests and documentation. **Merged.**
 - **[YosysHQ / SymbiYosys](https://github.com/YosysHQ/sby/pull/369)** - Documented the `prep` mode and related `skip_prep` option. **Merged.**
 
