@@ -16,4 +16,4 @@ I build and verify synthesizable digital hardware using Verilog, SystemVerilog, 
 
 ## Contact
 
-[![Email](https://img.shields.io/badge/Email-shivamtiwari0205052%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:shivamtiwari0205052@gmail.com)
+[![Email](https://img.shields.io/badge/Email-shivamtiwari020505%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:shivamtiwari020505@gmail.com)
